@@ -1,0 +1,7 @@
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LineerSearch\LineerSearch\bin\Debug\LineerSearch.exe.config
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LineerSearch\LineerSearch\bin\Debug\LineerSearch.exe
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LineerSearch\LineerSearch\bin\Debug\LineerSearch.pdb
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LineerSearch\LineerSearch\obj\Debug\LineerSearch.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LineerSearch\LineerSearch\obj\Debug\LineerSearch.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LineerSearch\LineerSearch\obj\Debug\LineerSearch.exe
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LineerSearch\LineerSearch\obj\Debug\LineerSearch.pdb

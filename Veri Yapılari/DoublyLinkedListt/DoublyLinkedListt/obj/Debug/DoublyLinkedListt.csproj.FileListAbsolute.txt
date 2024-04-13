@@ -1,0 +1,7 @@
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\DoublyLinkedListt\DoublyLinkedListt\bin\Debug\DoublyLinkedListt.exe.config
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\DoublyLinkedListt\DoublyLinkedListt\bin\Debug\DoublyLinkedListt.exe
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\DoublyLinkedListt\DoublyLinkedListt\bin\Debug\DoublyLinkedListt.pdb
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\DoublyLinkedListt\DoublyLinkedListt\obj\Debug\DoublyLinkedListt.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\DoublyLinkedListt\DoublyLinkedListt\obj\Debug\DoublyLinkedListt.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\DoublyLinkedListt\DoublyLinkedListt\obj\Debug\DoublyLinkedListt.exe
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\DoublyLinkedListt\DoublyLinkedListt\obj\Debug\DoublyLinkedListt.pdb

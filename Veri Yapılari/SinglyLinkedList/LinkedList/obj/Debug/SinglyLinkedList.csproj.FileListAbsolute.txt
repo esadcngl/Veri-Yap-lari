@@ -1,0 +1,7 @@
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\SinglyLinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\SinglyLinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\SinglyLinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\SinglyLinkedList\LinkedList\obj\Debug\SinglyLinkedList.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\SinglyLinkedList\LinkedList\obj\Debug\SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\SinglyLinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\SinglyLinkedList\LinkedList\obj\Debug\LinkedList.pdb
