@@ -1,0 +1,7 @@
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LinkedListBasedStack\LinkedListBasedStack\bin\Debug\LinkedListBasedStack.exe.config
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LinkedListBasedStack\LinkedListBasedStack\bin\Debug\LinkedListBasedStack.exe
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LinkedListBasedStack\LinkedListBasedStack\bin\Debug\LinkedListBasedStack.pdb
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LinkedListBasedStack\LinkedListBasedStack\obj\Debug\LinkedListBasedStack.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LinkedListBasedStack\LinkedListBasedStack\obj\Debug\LinkedListBasedStack.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LinkedListBasedStack\LinkedListBasedStack\obj\Debug\LinkedListBasedStack.exe
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LinkedListBasedStack\LinkedListBasedStack\obj\Debug\LinkedListBasedStack.pdb

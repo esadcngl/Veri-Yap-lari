@@ -1,0 +1,7 @@
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\ArrayBasedStack\ArrayBasedStack\bin\Debug\ArrayBasedStack.exe.config
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\ArrayBasedStack\ArrayBasedStack\bin\Debug\ArrayBasedStack.exe
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\ArrayBasedStack\ArrayBasedStack\bin\Debug\ArrayBasedStack.pdb
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\ArrayBasedStack\ArrayBasedStack\obj\Debug\ArrayBasedStack.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\ArrayBasedStack\ArrayBasedStack\obj\Debug\ArrayBasedStack.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\ArrayBasedStack\ArrayBasedStack\obj\Debug\ArrayBasedStack.exe
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\ArrayBasedStack\ArrayBasedStack\obj\Debug\ArrayBasedStack.pdb

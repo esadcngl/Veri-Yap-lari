@@ -1,0 +1,7 @@
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\QueueAsArray\QueueAsArray\bin\Debug\QueueAsArray.exe.config
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\QueueAsArray\QueueAsArray\bin\Debug\QueueAsArray.exe
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\QueueAsArray\QueueAsArray\bin\Debug\QueueAsArray.pdb
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\QueueAsArray\QueueAsArray\obj\Debug\QueueAsArray.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\QueueAsArray\QueueAsArray\obj\Debug\QueueAsArray.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\QueueAsArray\QueueAsArray\obj\Debug\QueueAsArray.exe
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\QueueAsArray\QueueAsArray\obj\Debug\QueueAsArray.pdb

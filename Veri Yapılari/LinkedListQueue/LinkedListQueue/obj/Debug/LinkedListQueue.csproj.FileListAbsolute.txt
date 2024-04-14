@@ -1,0 +1,7 @@
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LinkedListQueue\LinkedListQueue\bin\Debug\LinkedListQueue.exe.config
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LinkedListQueue\LinkedListQueue\bin\Debug\LinkedListQueue.exe
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LinkedListQueue\LinkedListQueue\bin\Debug\LinkedListQueue.pdb
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LinkedListQueue\LinkedListQueue\obj\Debug\LinkedListQueue.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LinkedListQueue\LinkedListQueue\obj\Debug\LinkedListQueue.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LinkedListQueue\LinkedListQueue\obj\Debug\LinkedListQueue.exe
+C:\Users\Esadcngl\Desktop\Veri Yapıları - 2\LinkedListQueue\LinkedListQueue\obj\Debug\LinkedListQueue.pdb
